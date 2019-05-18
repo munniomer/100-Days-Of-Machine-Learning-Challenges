@@ -1,4 +1,4 @@
-# 100 Days Of Machine Learning Code - Log [Munira Omar]
+# 100 Days Of Machine Learning Challenge - Log [Munira Omar]
 
 ### Day 1: May 18, 2019
 
