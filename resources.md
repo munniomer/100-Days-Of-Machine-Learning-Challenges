@@ -1,5 +1,10 @@
 # The Resources am using for learning Machine Learning
 
+## 1. Linear Algebra Resources
+
+### Online Courses and Videos
+* [khanacademy-Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+
 ## Contents
 
 * [Course Objective - Click here to learn more about this course](course-objective.md)
