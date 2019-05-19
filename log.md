@@ -6,6 +6,10 @@
 
 **Thoughts**: I did not know much about Linear ALgebra but today am happy that I mastered of its concepts that are used in Machine Learning Such as Matrices and Vectors.
 
+### Day 2: May 19, 2019
+Today's Progress: Continued learning Linear Algebra and watched Vectors and spaces videos on Khan Academy.
+
+Thoughts: Practiced the quizes on Vectors and Spaces.
 
 ## Contents
 
