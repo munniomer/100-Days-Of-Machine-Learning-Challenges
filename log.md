@@ -11,6 +11,11 @@
 
 **Thoughts**: Practiced the quizes on Vectors and Spaces.
 
+### Day 3: May 20, 2019
+**Today's Progress**: Continued learning Linear Algebra and finished Vectors and spaces videos on Khan Academy.
+
+**Thoughts**: Practiced the quizes on unit vectors.
+
 ## Contents
 
 * [Course Objective - Click here to learn more about this course](course-objective.md)
