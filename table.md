@@ -2,7 +2,8 @@
 | Week | Topic | Source | Duration |
 | --- | --- | --- | --- | 
 | Week 1 & Week 2| Linear Algebra | [Khan Academy ](https://www.khanacademy.org/math/linear-algebra) | 3 Days |
-|  | Show file differences that haven't been staged |
+||  | [Khan Academy ](https://www.khanacademy.org/math/linear-algebra) | 3 Days |
+
 
 
 
