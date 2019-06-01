@@ -2,10 +2,10 @@
 
 **1. Week 1 & Week 2**
    * **Linear Algebra**
-      - [ ] [Khan Academy Course ](https://www.khanacademy.org/math/linear-algebra)
-      - [ ] [MIT Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-      - [ ] [Coursera Course](https://www.coursera.org/learn/linear-algebra-machine-learning) 
-      - [ ] [Udacity Course ](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) 
+      - [ ] [Linear Algebra - Khan Academy ](https://www.khanacademy.org/math/linear-algebra)
+      - [ ] [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+      - [ ] [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) 
+      - [ ] [Linear Algebra Refresher Course ](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) 
    * **Python**
       - [ ] [Treehouse Course ](https://teamtreehouse.com/tracks/beginning-python)
       - [ ] [MIT Course](https://www.coursera.org/specializations/python-3-programming/)
