@@ -1,13 +1,12 @@
 #### My Curriculum for Learning Data Science and Machine Learning in 3 Months
-| Week | Topic |
-| --- | --- |
+| Week | Topic | Source | Link | Duration |
+| --- | --- | --- | --- | --- | 
 | Week 1 & Week 2| Linear Algebra |
 |  | Show file differences that haven't been staged |
 
 
 
 
-My Curriculum for Learning Data Science and Machine Learning in 3 Months,,,,,
 Weeks,Topic,Source,Link,Duration,Summary Notes
 Week 1 & Week 2,Linear Algebra,Khan Academy,https://www.khanacademy.org/math/linear-algebra,3 Days,
 ,,MIT ,https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/,3 Days,
